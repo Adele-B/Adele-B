@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adele-B
-- 🌱 I’m currently learning ... Frontend development
+- 🌱 I’m currently learning ... Node.js, express
 - 📫 How to reach me ... https://www.linkedin.com/in/adele-bampton/
 - 🔏 Deployment of private repo: (First Next.js and MongoDB Udemy project) https://nextjs-meetup-app-nine.vercel.app/
 <!---
